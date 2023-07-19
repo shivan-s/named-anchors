@@ -1,6 +1,8 @@
 html {
+  max-width: 480px;
+  line-height: 3;
   scroll-behavior: smooth;
 }
 li {
-  color: blue;
+  color: grey;
 }
